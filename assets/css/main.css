@@ -2980,7 +2980,7 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 	}
-
+ 
 		.spotlight:nth-last-of-type(1) {
 			z-index: 1;
 		}
@@ -3521,7 +3521,7 @@ input, select, textarea {
 				height: 18em;
 				margin-left: 3em;
 				vertical-align: middle;
-				width: 18em;
+				width: 13em;
 			}
 
 				#banner .content .image img {
