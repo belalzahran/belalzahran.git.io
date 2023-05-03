@@ -74,6 +74,11 @@ input, select, textarea {
 
 /* Basic */
 
+.image-right {
+	float: right;
+	/* Add any additional styling you'd like for the image */
+  }
+
 	html {
 		box-sizing: border-box;
 	}
